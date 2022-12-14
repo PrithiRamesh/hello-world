@@ -8,7 +8,8 @@ import "fmt"
 func main() {
 
 
-	fmt.Println("Prithi loosu")
+	fmt.Println("Prithi 1")
+	fmt.Println("prithi 2")
 
 }
 
